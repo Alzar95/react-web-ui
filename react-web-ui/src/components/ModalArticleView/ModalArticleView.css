@@ -1,0 +1,8 @@
+.modal-article-view {
+    display: inline-block;
+}
+
+.time-created, .time-update {
+    padding-left: 5px;
+    color: #61dafb;
+}

@@ -1,0 +1,45 @@
+table tr th {
+    width: 25%;
+}
+
+.table-of-articles {
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.table-of-articles .block-title-and-button-create {
+    display: inline-block;
+    width: 100%;
+}
+
+.table-of-articles .block-title-and-button-create .title-articles {
+    display: inline-block;
+    float: left;
+}
+
+.table-of-articles .block-title-and-button-create .button-create {
+    float: right;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 10px;
+}
+
+.buttons-edit-view {
+    display: inline-block;
+}
+
+.link-button-edit {
+    display: inline-block;
+}
+
+.table-of-articles .button-edit {
+    margin-right: 5%;
+    border-radius: 25px;
+}
+
+.table-of-articles .button-view {
+    display: inline-block;
+    margin-left: 5%;
+    border-radius: 25px;
+}

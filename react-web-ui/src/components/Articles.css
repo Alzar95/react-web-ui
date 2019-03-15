@@ -1,0 +1,32 @@
+.react-paginate {
+    margin-left: 38%;
+}
+
+.pagination li {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    cursor: pointer;
+   /* padding-left: 10px;
+    border: 1px solid #000000;*/
+}
+
+.active {
+    border: 3px solid #61dafb !important;
+}
+
+/*.page-item {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}*/

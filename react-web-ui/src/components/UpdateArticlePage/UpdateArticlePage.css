@@ -1,0 +1,35 @@
+.create-article-page {
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 5%;
+    text-align: left;
+}
+
+.create-article-page .title-article-create {
+    margin-bottom: 5%;
+}
+
+.create-article-pag .form-create-article {
+
+}
+
+.create-article-page .form-create-article .title-name {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.create-article-page .form-create-article .title-form-control {
+    width: 50%;
+}
+
+.create-article-page .form-create-article .button-create,
+.create-article-page .form-create-article .button-cancel {
+    color: white;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 10px;
+}
+
+.create-article-page .form-create-article .button-create {
+    margin-right: 3%;
+}
